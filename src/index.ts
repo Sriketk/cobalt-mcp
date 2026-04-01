@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-// Entry point for cobalt-mcp-server
+// Main entry point — McpServer initialization and transport setup
 console.error("cobalt-mcp-server: not yet implemented");
